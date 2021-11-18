@@ -1,0 +1,19 @@
+body{
+    background: red;
+}
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#number_1{
+    width: 100%;
+    height: 30px;
+}
+#number_2{
+    width: 100%;
+    height: 30px;
+}
